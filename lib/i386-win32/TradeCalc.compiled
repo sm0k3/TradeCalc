@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\2.6.2\bin\i386-win32\fpc.exe" Date="1120491560"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -vewnhi -FiC:\Users\Theros\Documents\TradeCalc\lib\i386-win32 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 -FuC:\Users\Theros\Documents\Lazarus\MyAPPs\TradeCalc\ -FUC:\Users\Theros\Documents\TradeCalc\lib\i386-win32\ -l -FEC:\Users\Theros\Documents\TradeCalc\ -dLCL -dLCLwin32 TradeCalc.lpr"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O3 -Pi386 -Xs -WG -vewnhi -FiC:\Users\Theros\Documents\TradeCalc\lib\i386-win32 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 -FuC:\Users\Theros\Documents\Lazarus\MyAPPs\TradeCalc\ -FUC:\Users\Theros\Documents\TradeCalc\lib\i386-win32\ -l -FEC:\Users\Theros\Documents\TradeCalc\ -dLCL -dLCLwin32 TradeCalc.lpr"/>
 </CONFIG>
