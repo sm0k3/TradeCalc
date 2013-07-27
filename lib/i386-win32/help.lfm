@@ -1,7 +1,7 @@
 object TradeCalc_HELP: TTradeCalc_HELP
-  Left = 641
+  Left = 582
   Height = 297
-  Top = 136
+  Top = 130
   Width = 320
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
